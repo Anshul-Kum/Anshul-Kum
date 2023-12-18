@@ -1,6 +1,6 @@
 # Hi there, I'm Anshul 👋
 
-I'm a Data Scientist with experience in executing data-driven solutions using predictive models. I'm proficient in numerous statistical, machine learning, and data visualization techniques. I'm currently a student at Arizona State University.
+I'm a Junior majoring in Data Science at Arizona State University with experience in executing data-driven solutions using predictive models. I'm proficient in numerous statistical, machine learning, and data visualization techniques. I'm currently a student at Arizona State University.
 
 ## Skills
 - Python
