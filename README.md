@@ -1,6 +1,6 @@
 # Hi there, I'm Anshul 👋
 
-![BIO]{[White Minimalist Corporate Personal Profile LinkedIn Banner.png](https://www.canva.com/design/DAGZJyX_bCI/ZKgzhCe7moz9zzaarqg04A/edit?utm_content=DAGZJyX_bCI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)}
+![BIO]([White Minimalist Corporate Personal Profile LinkedIn Banner.png](https://www.canva.com/design/DAGZJyX_bCI/ZKgzhCe7moz9zzaarqg04A/edit?utm_content=DAGZJyX_bCI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))
 
 I'm a Junior majoring in Data Science at Arizona State University with experience in executing data-driven solutions using predictive models. I'm proficient in numerous statistical, machine learning, and data visualization techniques. I'm currently a student at Arizona State University.
 
