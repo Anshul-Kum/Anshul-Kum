@@ -2,25 +2,17 @@
 
 ![BIO](https://github.com/user-attachments/assets/c6f45958-1c1b-4230-a56e-a5bea55a4db1)
 
-I'm a Junior majoring in Data Science at Arizona State University with experience in executing data-driven solutions using predictive models. I'm proficient in numerous statistical, machine learning, and data visualization techniques. I'm currently a student at Arizona State University.
+Senior at Arizona State University majoring in Data Science with a passion to derive data-driven business decisions using data science and machine learning.
 
-## Skills
-- Python
-- R
-- SQL
-- Alteryx
-- Tableau
-- Machine Learning
-- Data Visualization
+- Building and optimizing ML models with scikit-learn
+- Exploratory Data Analysis using Python and R
+- Querying data using SQL
+- Developing dashboards on Tableau and Power BI
 
-## Experience
-- Teaching Assistant - Arizona State University (Aug 2023 - Dec 2023)
-- Data Entry Specialist - School of Electrical, Computer and Energy Engineering, ASU (Feb 2023 - Present)
-- Visitor Experience and Admissions Coordinator - Admissions Services, ASU (May 2022 - Present)
-
-## Projects
-- Customer Churn Prediction
-- Marketing Analytics
+## Technical Acumen  
+- Programming Language: Python (pandas, PySpark, sklearn, keras, etc.), R (dplyr, tidyverse, ggplot2), SQL, Java
+- Software: Power BI, Tableau, Microsoft Excel (VBA), Alteryx, MS Office Suite
+- Other Platforms: Salesforce, Snowflake, Workday
 
 ## Contact
 - LinkedIn: [Anshul Kumar](https://www.linkedin.com/in/anshul-kumar2004/)
