@@ -15,5 +15,5 @@ Senior at Arizona State University majoring in Data Science with a passion to de
 - Other Platforms: Salesforce, Snowflake, Workday
 
 ## Contact
-- LinkedIn: [Anshul-Kum](https://www.linkedin.com/in/anshul-kumar2004/)
+- LinkedIn: [anshul-kumar2004](https://www.linkedin.com/in/anshul-kumar2004/)
 - Email: akuma332@asu.edu
